@@ -1,0 +1,19 @@
+{
+  "name": "tool-stm8flash",
+  "version": "1.1.20250209",
+  "description": "Modified stm8flash version to fix issues with SWIM protocol on stlinkv2 clones.",
+  "keywords": [
+    "tools",
+    "uploader",
+    "stmicroelectronics",
+    "stm8"
+  ],
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gootzle/tool-stm8flash"
+  },
+  "system": [
+    "darwin_arm64"
+  ]
+}
